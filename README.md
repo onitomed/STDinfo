@@ -9,15 +9,19 @@ MPyC
 
 Open 3 command terminals in the directory where main.py is stored. 
 
+In terminal 1 run
+```bash
+python main.py -M3 -I0 000100
+```
+In terminal 2 run
+```bash
+python main.py -M3 -I1 000000
+```
 
-In terminal 1, run 'python main.py -M3 -I0 000100'
-
-
-In terminal 2, run 'python main.py -M3 -I1 000000'
-
-
-In terminal 3, run 'python main.py -M3 -I2'
-
+In terminal 3 run
+```bash
+python main.py -M3 -I2
+```
 
 Terminal 1 is operated by user 1. '000100' is a distilled STD panel. In this bit string, each 0 denotes a negative test result, and each 1 denotes a positive test result. The index of each bit in this distilled STD bit string is specific to a specific sexually transmitted disease tested on the panel (see below for more information).
 Terminal 2 is operated by user 2. '000000' is the distilled STD panel data (all STDs tested for were negative).

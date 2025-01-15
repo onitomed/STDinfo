@@ -66,4 +66,4 @@ third party
 
 # ONITO
 
-This is a project under [ONITO](https://onitomed.github.io). ONITO is a company building healthcare data infrastructure. Contact us at onitomed@gmail.com.
+This is a project under [ONITO](https://onitomed.github.io). ONITO is a company for healthcare data infrastructure. Contact us at onitomed@gmail.com.

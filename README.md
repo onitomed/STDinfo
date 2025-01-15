@@ -64,6 +64,6 @@ Incorporating a safety feature to warn about pregnancy for partners who both tes
 Incorporating document parsing to convert STD panel reports in PDF form to distilled STD panel bit strings, done natively on device without transferring medical data to a 
 third party
 
-# Bots 4 U Consultancy
+# ONITO
 
-If you'd like a human coder to implement and maintain this project within your organization's codebase, we have yearly contracts. Contact us at manonthemoon13131@gmail.com.
+This is a project under [ONITO](https://onitomed.github.io). ONITO is a company building healthcare data infrastructure. Contact us at onitomed@gmail.com.
